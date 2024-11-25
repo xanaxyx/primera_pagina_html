@@ -1,2 +1,2 @@
-# primera_pagina_html
+# Página Corte Inglés
 Esta es mi primera página con HTML que he creado.
